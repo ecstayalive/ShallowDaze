@@ -1,5 +1,5 @@
 # ShallowDaze
-
+[中文](./README-ZH.md)
 ## Introducing
 ShallowDaze is a script which can generation image from text. Based on deep-daze, shallow-daze changed its network parameters and tried to add some network models for generating pictures, and deleted some content. After installing the environment, it can run on a graphics card with less than 4GB of video memory by default. If you want to know more details about deep-daze, please go to the [deep-daze](https://github.com/lucidrains/deep-daze) to have a look. By the way, the author is awesome!!
 
