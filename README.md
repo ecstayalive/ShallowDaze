@@ -46,7 +46,7 @@ cd ShallowDaze
 python main.py
 ```
 
-## Citations
+## References
 
 ```bibtex
 @misc{unpublished2021clip,

@@ -47,7 +47,7 @@ cd ShallowDaze
 python main.py
 ```
 
-## 引文
+## 参考文献
 
 ```bibtex
 @misc{unpublished2021clip,
